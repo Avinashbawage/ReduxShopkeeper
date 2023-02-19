@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main_container{ 
+    margin: 0;
+}
+
+.container{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+    background: linear-gradient(#36d1dc, #5b86e5);
+
+    div{
+        padding: 10px;
+    }
+}
+
+.lists{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    text-align:start;
+    background-color: #F5BA1C;
+    min-height: 260px;
+}
+
+.box{
+    max-width: 100px;
+    border: 1px solid black;
+
+}
+
+.card_container{
+    border: 1px solid black;
+    width: 100px;
+    height: 50px;
+}
